@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>932892948922-osj7s3gcfv9su8oo4k6keg9ar5jkijlt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.932892948922-osj7s3gcfv9su8oo4k6keg9ar5jkijlt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQMLwOU5Kg9XdM-etOEvEHJkk6hSU4j4U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>932892948922</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>duke.edu.sizhang.Bundled</string>
+	<key>PROJECT_ID</key>
+	<string>bundle-d5733</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bundle-d5733.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:932892948922:ios:0f931c208d793434</string>
+	<key>DATABASE_URL</key>
+	<string>https://bundle-d5733.firebaseio.com</string>
+</dict>
+</plist>
