@@ -1,7 +1,7 @@
 # Bundled Mobile Application
 
 **Developed by** *SixSix*  
-**Team Member** *Chenqi Zhao, Wenqi Wang*
+**Team Member** *Si Zhang, Chenqi Zhao, Wenqi Wang*
 
 ## Overview
 
