@@ -64,6 +64,7 @@ https://bundle-d5733.firebaseio.com/
 
 ## Contributors
 Wenqi Wang: UI design, backend build, API<br/>
+Si Zhang: UI design, frontend built, authentication build<br/>
 Chenqi Zhao: frontend built, data transfer, test<br/>
 
 
